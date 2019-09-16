@@ -1,0 +1,40 @@
+------------------------------------------------------------------------------------------------------------------------
+Individual project plan:
+	Ideas:
+		Automated project task delegation software:
+			The project:
+				This software would be used to make optimal tasks assignments to members of a team on a 
+				project based on the nature of the task and the skill sets of the team members to maximise 
+				the quality of the project and/or to make a projected minimised time frame to complete the
+				project.
+			UI:
+				-Project pool:
+					Tool bar:
+						File:
+							Save
+							Save as
+							Load
+							Exit
+						Project:
+							Add project
+								Add required skills
+								Add time frame
+								Import:
+									Import from text file
+									Import from csv
+									Import from xlmsx
+							Remove project
+							Add member:
+								Add skill
+								Add availbility
+								Add average production rate (%/hour)
+									Add production varation
+						Tools:
+							(TBA)
+						Help:
+							Walkthrough
+							Examples
+
+			Using the CRUD: 
+------------------------------------------------------------------------------------------------------------------------
+

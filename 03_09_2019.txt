@@ -1,0 +1,314 @@
+---------------------------------------------------------------------------------------------------------
+First 6 weeks:
+
+	Consulting-skills + Agile
+	Python 1
+	Git/markdown + linux
+	Python 2
+	CI
+	Database w/ the cloud (Probably using AWS or MS Azure)
+	(Docker)
+	Individual Project (using tools from previous 6 weeks (making a to-do list app if you want to small brain it))
+		Wait for spec
+---------------------------------------------------------------------------------------------------------
+Agile:
+	What it is:
+		Adaptive.
+		Empirical.
+		Team-based.
+	
+	Values:
+		Individuals and interations.
+		Working software.
+		Customer collaboration.
+		Responding to change.
+
+	Priorities:
+		Customer satisfaction.
+		Welcoming changing requriments.
+		Devilvering working software frequently.
+		Working daily with business people and devs.
+		Build projects around motivated individuals.
+		The most eficent and effective method of conveying information is face-to-face.
+		Working software is the primary measure of progress.
+		Agile processes promotes sustatible developent.
+		Continious attention to techenical exellence.
+		Simplicity.
+		The best architectures, requirmetns and designs emerge from self organising teams.
+		At regular intervals, the team reflects on how to become more effiecnt.
+
+---------------------------------------------------------------------------------------------------------
+Scrum (part of Agile):
+	What it is:
+		Working as a team to tackle complex, adapative probles.
+
+	Roles:
+		Scrum master.
+		Product owner (Accountable the product).
+		Developer (Makes product).
+
+	Artefacts:
+		Product Back-log:
+			Single source requiremtns.
+			People involved:
+				Oqned by PO.
+				Refined by Scrum Team.
+				Develpoed by Dev Team.
+			Use MOSCOW:
+				MUST HAVE
+				O
+				SHOULD HAVE
+				COULD HAVE
+				O
+				WOULD HAVE
+
+		Sprint Back-log:
+			Team decides on the items and time requirments to complete them.
+			Any teams member can pick from tasks.
+			Shown on task board for all to see.
+
+		Increment:
+			Checklist of activities to be completed for Product 
+			Backlog item or product increment to be done.
+			Defined in advanced.
+			Transparent tto all.
+			Agreed by Scrum team.
+			Evolves.
+
+		Sprint:
+			A Time-boxed period of software dev.
+			One-week to one-month duration.
+			Always produces a potentially shipable.
+
+		Sprint Planning Meeting:
+			For the scrum team to plan the sprint delivery.
+			Time-boxed to eight hours for one-month sprint.
+			Split into two parts; What and How.
+			PO presents to the top priority back-log items.
+			All work together to decide what functionality is to be developed during the next sprint.
+
+		Sprint Review Meeting:
+			Assess progress against the sprint goal.
+			For everyone involved including customers, managerment and stakeholders.
+			Inspects what was produced in the last sprint and gives acceptance and/or....
+
+		Sprint retrospective:
+			What went right?
+			What went wrong?
+			What would we change?
+			Actions to be assigned?
+
+		Daily Scrum:
+			Scrum master ensures daily scrum occurs.
+			Same time, same place, <15 min.
+
+			Three questions will be asked and awnsered:
+				What did I do yesterday?
+				What am I planning to do today?
+				What impediments are stopping me from completing my task?
+
+---------------------------------------------------------------------------------------------------------
+Waterfall Method:
+
+	Requirments:
+		Getting baseline understanding of the specification that the client requests.
+
+	Analysis:
+		Breaking down the requirments to streamline them, removing redundent 
+		or degenerate requirments.
+
+	Design:
+		Picking programming/scripting language, what types of data layers will be required (the
+		overal structure).
+
+	Coding:
+		Developing the code for the application.
+
+	Testing:
+		(Should be done as you're coding.)
+
+	Operations:
+		Implmentation into the market.
+		
+---------------------------------------------------------------------------------------------------------
+NB Gardens Proposal:
+
+	-Introduction to your team.
+	-Why you're the right fit for NB Gardens.
+	-Individual skills and what each person brings to the team.
+
+Team skills to bring to the table:
+
+	Sean - Mathematics background (optimisation, python and statistical analysis skills, jack-of-all-trades prgrammer)
+	Eoghan - Web development background (PHP, SQL, CSS, Javascript and HTML)
+	Rob - C# programmer with specific knowledge in design (creative background)
+	James - Front end dev (Can deal with user friendly UI, jack-of-all-trades prgrammer)
+
+Why are we suited for MD Gardens?
+
+	They are a company with a highy out-dated sales, stock management and ethos on dealing with the morden 
+	gnone customer. This is emphisied by the fact that they lack any form of web-service and an out-dated stock
+	from system.
+	We are suitable as a team to assist MD Gardens due to our highly varied and morden skill set in tech and software
+	to provide creative and contempory soultions to less than contempory problems. 
+
+Hard data on Company:
+
+	Name Of Comp: Nb Gardens
+	Location: NW
+	Product sold: Garden Gnomes, Gnome accessories and garden ornaments
+	Net income: £100,000,000
+	# of employees: 600 in dis centre + call centre + head office
+	employee breakdown: 100 sales reps (2k orders per day)
+	order breakdown: Within 15 min, average value of £200.
+
+Business Transformation Stretegy:
+
+	•To provide a more accurate, pleasant, timely and satisfying experience for each of our customers.
+	•To place tight controls on the key information flows within our business processes.
+	
+
+Problems:
+
+	A new call centre was integrated in a short time frame and "this has resulted in problems 
+	integrating the call centre into the NB Gardens infrastructure and processes" that has caused 
+	conflict between stakeholders this issue.
+
+	Changing market tastes (cutting quality for cost) of customers.
+
+	Complains about the IMS implimented by the previous consultants
+
+Soultions proposed:
+
+	Developing a website where orders can be made:
+
+		Pros:
+			Cuts out the need for sales operatives in the call centres and allows for more space
+			for other types of workers. (Webdevs, customer support, DevOpts).
+
+			Sales are not bottled necked by the # of sales operatives but the # of people 
+			attempting to access the site at once.
+
+			Sales are completed by the rate at which the customer completes the transaction on the
+			site.
+
+			Will allow easier self-promation- that will provide a platform to phase in the newer cheaper
+			gnomes.
+
+		Implamentation:
+			(TBA)
+
+	Automated stock updating system:
+		
+		Pros:
+			
+
+
+
+---------------------------------------------------------------------------------------------------------
+Employability:
+
+	Interview Prep:
+
+		Be prepared:
+
+			Questions and sernios:
+				Intro
+				Tech questions
+			Plan your route
+			Work out what you wear
+			Be hygienic
+			Be prepared to talk about yourself
+
+		Be yourself:
+
+			Why do we actually conduct interviews?
+			What is the purpose of the assessment day?
+			How does this all relate to the "BE YOURSELF" section?
+
+		Remain calm:
+			
+			Panic? Get nervous and closed off?
+			Talk quieter, or not at all?
+			Ultimately, you don't know what the interviewer is looking for.
+			You've no idea how well the interview has actually gone. (debatable)
+
+	Struture of an interview:
+
+		Introduction:
+			You yourself can talk about you, no one else.
+			Be confindet in who you are and your background.
+
+		Techinical questions.
+
+		Situational/behavioural questions:
+			STAR METHOD:
+				S- Situation.
+				T- Task.
+				A- Action.
+				R- Result.
+
+		Other jobs that you've had.
+
+		Why you chose to work for this company and why you're intreasted in tech.
+
+		Where you see yourself in X number of years.
+
+		Hobbies/interests.
+
+		"Tell me about yourself"(will be the first questions to come up in week 2):
+			This is a chance to talk about why you are where you are.
+			Talk about your past experiences that have led to this, what got you into IT.
+			They know what degree you got- they have your CV.
+
+		Do your homework on the company before the interview.
+
+	Your personal profile:
+
+		Cv accompanying cover letter:
+
+			You need to make sure it succinctly discusses you and your experience
+			Basic info
+			Personal profile
+			Tech skills
+			Project experience
+			Hobbies and interests
+
+		Online profile (LinkedIn):
+			Programming languages and IDE's
+			DevOps techs
+			testing tools
+			Operating systems
+
+			Project experience:			
+				Can be either individual or group projects
+				(Expand later)
+
+			Cover letter/bio:
+				Get a better feel for the background of the person.
+				Summerarises the CV and talks about why they would want you.
+
+		It's easy for employers to find your socials (Facebook, Instagram, Twitter, etc.)
+
+	Professional conduct:
+
+		Important as to not get fired.
+		Having a good rep with you collages and peers.
+		Will help get a good reference
+
+		Punctuality
+		Trustworthiness
+		Accountability
+		Compentency
+		Image
+		Impartiality
+
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Individual Project:
+
+	Ideas:
+		
+---------------------------------------------------------------------------------------------------------		
+---------------------------------------------------------------------------------------------------------

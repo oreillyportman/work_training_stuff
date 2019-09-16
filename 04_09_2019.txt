@@ -1,0 +1,136 @@
+Communication:
+	Consulting Skills:
+		Barriers to communication:
+			(Look in Slack)
+			It's important that the sender ensures that their message is clearly understood.
+			Barriers to communication lead to messages being distorted in some way.
+			
+			Communication styles:
+				Action- focused on doing things
+				Method- focused on facts and process
+				People- focused on social interaction
+				Ideas- focused on theory and concepts
+
+			Look up Shannon & Weaver comms model
+
+			The Power Of Words:
+				Positive words:
+					Helpful and constructive
+					Tells people what can be done
+				Negative words:
+					Not helpful and tell you what can't be done
+					Subtle tone of blame
+				Netural words:
+					Wishy-washy
+
+			Mediums of communication:
+				What do they need to know and want to hear?
+				What is their preferred way to reciving information?
+				What will stop them listening to what you have to say?
+				How will you know that they have got the message?
+				What message warrants formal formal communication?
+				What warrants informal communication?
+
+		Interacting with clients:
+			Interviewing a client:
+				Can be used to both hather requriments for a project as well as build up rapport with the business
+				Plan:
+					Ensure that you are ready for the interview with a client and know what info you need to get.
+					The objective of the interview, the scope, the constraints and the deliverable.
+						BOSCARD:
+							B - Background
+							O - Objectives
+							S - Scope
+							C - Constraints
+							A - Assumptions
+							R - Risk
+							D - Deliverables
+					What type of questions are we asking? 
+					What's the purpoese of the interview?
+						The 7-point questioning strategy:
+							1.Process
+							2.Business Rules
+							3.Data
+							4.Requirements
+							5.People
+							6.Metrics
+							7.Problems
+				Prepare
+				
+					Most important topics first, logical sequence.
+					Introduce sensitive topics later in the interview once rapport is established.
+					Introduce the topic, ask an opening question, as any follow ups to that questions.
+					Where and when is the interview happening,how long will it last, what's the
+					purpose, what they need prior to attending?
+
+					Open vs. closed questions:
+						Open questions:
+							Encourage interviewee
+							Help them relax 
+
+						Closed question:
+							Helps clarify				
+				Conduct
+					First impression are extremely important!
+					Use the interview plan prepared preiously, build rapport, liste and think quickly.
+		`			Summarise the interview, let the interviewee know what's happening next, ask about 
+					future interviews if neededm thank them for their time.
+
+					Initial contact and first impressions:
+						Introduce yourself, smile and make eye contact
+						Make physical contract, where appropriate
+						Explain the need for note-taking
+						Explain what feedback will be given
+						Explain the structure
+						Assess the attitude of the interviewee
+						Thank them for seeing you
+						Restate purpose, timing and needs
+						Explain why the information is relelvent
+				Follow up
+					Write up notes asap and send to interviewee and amend
+					Analyse and document
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Kick off interview:
+		John Mann - COO (Chief Operating Officer)
+		Debbie Thorne - CHRO (Chief Human Resorses Officer)
+
+		Plan + Prepare:
+			-15 Min
+			-Both at the same time
+			-Questions
+---------------------------------------------------------------------------------------------------------------------------------------------
+Interview:
+	Thursday AM:
+		Al Stock - Warehouse Manager
+		Ben Back - Warehouse Oprative
+		Ray Smithy - Sales Rep
+---------------------------------------------------------------------------------------------------------------------------------------------
+Modelling:
+	Modelling techniques:
+		We organise our business and their work in a manner that is most convenient for the people in the business rather than the people we serve.
+		"Those people who do the same sort of work should be co-located".
+		thus all the accountants work together, all IT people work together, all sales folk.
+		There is potential for them to work inderpendent silos, oblivious to the effect that their descions have on other parts of the business.
+		
+		Real processes:
+			They start with a request for a good or service from a customer and end with the delivery.
+			Nonetheless, the business is still managed in terms of the original....
+		
+		Process ownership:
+			They are not some logical structure invented by the IT departmenty.
+			The business must own them, oopetate them and be involved in fixing them.
+			The business must understand why process....
+
+		The simple def:
+			A process starts with a request for a good or service.... (Look at slides)	
+		How we get a process right? (Look at slides)
+
+	Business process modelling notation:
+		(Look at sldies) Start (Green circle)
+				 Intermedite (Yellow double circle)
+				 Stop (Red circle)
+	
+	Use case diagrams (Look into the slides)
+	Class diagrams (Look into the slides)
+---------------------------------------------------------------------------------------------------------------------------------------------
